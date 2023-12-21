@@ -21,7 +21,7 @@ pip install git+https://github.com/abewley/sort.git
 # Usage
 Clone the repository:
 
-`git clone https://github.com/yourusername/cars-counter-yolov8.git
+`git clone https://github.com/biswadeep-roy/cars-counter-yolov8.git
 `
 
 Download the YOLOv8 weights file (e.g., yolov8l.pt) and place it in the root directory of the repository.
