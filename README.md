@@ -43,7 +43,7 @@ Modify the limits list to change the position of the counting line in the video.
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details..
  
 # Acknowledgments
 
