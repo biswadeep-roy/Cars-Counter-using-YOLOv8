@@ -5,7 +5,7 @@ Car Counter ![image](https://github.com/biswadeep-roy/Cars-Counter-using-YOLOv8/
 
 
 Requirements
-Before running the code, make sure you have the following Python modules installed:
+Before running the code, make sure you have the following Python modules installed:  
 
 numpy
 opencv-python
